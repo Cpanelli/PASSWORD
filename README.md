@@ -7,6 +7,7 @@ This is a simple JavaScript-based password generator that allows you to create s
 1. When you click the "Generate Password" button, the script will prompt you to enter the desired password length. The password length must be between 8 and 128 characters.
 
 2. After specifying the length, the script will then prompt you to choose the criteria for your password, including:
+
    - Uppercase letters
    - Lowercase letters
    - Numbers
@@ -17,6 +18,40 @@ This is a simple JavaScript-based password generator that allows you to create s
 4. Once you've specified the length and criteria, the script generates a random password based on your choices and displays it in the "Generated Password" field.
 
 5. You can then copy the generated password and use it as needed.
+
+## Screenshots
+
+Here are some screenshots of the password generator in action:
+
+1. **Main Page**
+
+   ![Main Page](/PASSWORD/Screenshots/Screenshot%201.png)
+
+2. **Password Length Prompt**
+
+   ![Password Length Prompt](/PASSWORD/Screenshots/Screenshot%202.png)
+
+3. **Criteria Selection**
+
+   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%203.png)
+
+   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%204.png)
+
+   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%205.png)
+
+   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%206.png)
+
+   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%207.png)
+
+   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%208.png)
+
+   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%209.png)
+
+4. **Generated Password**
+
+   ![Generated Password] ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%2010.png)
+
+[Christopher's Password Generatior](<[URL](https://cpanelli.github.io/PASSWORD/)>)
 
 ## Usage
 
