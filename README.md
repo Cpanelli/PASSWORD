@@ -51,7 +51,7 @@ Here are some screenshots of the password generator in action:
 
    ![Generated Password] ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%2010.png)
 
-[Christopher's Password Generatior](<[URL](https://cpanelli.github.io/PASSWORD/)>)
+https://cpanelli.github.io/PASSWORD/
 
 ## Usage
 
