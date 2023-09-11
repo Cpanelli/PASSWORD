@@ -25,14 +25,9 @@ Here are some screenshots of the password generator in action:
 
 1. **Main Page**
 
-   ![Main Page](/PASSWORD/Screenshots/Screenshot%201.png)
+   <img width="1680" alt="Screenshot 2023-09-09 at 9 32 44 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/119964c7-a6f6-42da-929e-1c21ab27f0eb">
 
-2. **Password Length Prompt**
-
-   ![Password Length Prompt](/PASSWORD/Screenshots/Screenshot%202.png)
-
-3. **Criteria Selection**
-<img width="1680" alt="Screenshot 2023-09-09 at 9 32 44 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/119964c7-a6f6-42da-929e-1c21ab27f0eb">
+2. **Criteria Selection**
 
 <img width="1680" alt="Screenshot 2023-09-09 at 9 33 16 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/86d7ed80-d9af-415b-b33a-db6b9807e40e">
 
@@ -51,11 +46,11 @@ Here are some screenshots of the password generator in action:
 <img width="1680" alt="Screenshot 2023-09-09 at 9 33 54 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/c84415b2-a983-40f9-8102-b8ef8d060ef8">
 
 
-4. **Generated Password**
+3. **Generated Password**
 <img width="1680" alt="Screenshot 2023-09-09 at 9 34 09 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/2d1ddca2-dc38-4bf8-a88a-073482722d36">
 
    
-
+## Link To Password Generator
 https://cpanelli.github.io/PASSWORD/
 
 ## Usage
