@@ -32,24 +32,29 @@ Here are some screenshots of the password generator in action:
    ![Password Length Prompt](/PASSWORD/Screenshots/Screenshot%202.png)
 
 3. **Criteria Selection**
+<img width="1680" alt="Screenshot 2023-09-09 at 9 32 44 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/119964c7-a6f6-42da-929e-1c21ab27f0eb">
 
-   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%203.png)
+<img width="1680" alt="Screenshot 2023-09-09 at 9 33 16 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/86d7ed80-d9af-415b-b33a-db6b9807e40e">
 
-   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%204.png)
+<img width="1680" alt="Screenshot 2023-09-09 at 9 33 43 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/5858592b-77d4-4d85-a872-c2c312a0242c">
 
-   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%205.png)
+<img width="1680" alt="Screenshot 2023-09-09 at 9 33 09 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/61f63cdc-2d87-4e67-975e-09eb3fe0b4bd">
 
-   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%206.png)
+<img width="1680" alt="Screenshot 2023-09-09 at 9 33 36 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/6d8a4b4c-39f8-4b9b-8f8e-a041d26f1633">
 
-   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%207.png)
+<img width="1680" alt="Screenshot 2023-09-09 at 9 34 01 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/7de957ca-b99d-46e7-8ea1-c096507f57b8">
 
-   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%208.png)
+<img width="1680" alt="Screenshot 2023-09-09 at 9 33 01 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/353ad7f2-5004-4c2f-8c19-288539ec04f5">
 
-   ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%209.png)
+<img width="1680" alt="Screenshot 2023-09-09 at 9 33 29 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/8d6b91ea-26c3-4ccc-8786-6428267a687f">
+
+<img width="1680" alt="Screenshot 2023-09-09 at 9 33 54 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/c84415b2-a983-40f9-8102-b8ef8d060ef8">
+
 
 4. **Generated Password**
+<img width="1680" alt="Screenshot 2023-09-09 at 9 34 09 PM" src="https://github.com/Cpanelli/PASSWORD/assets/133393733/2d1ddca2-dc38-4bf8-a88a-073482722d36">
 
-   ![Generated Password] ![Criteria Selection](/PASSWORD/Screenshots/Screenshot%2010.png)
+   
 
 https://cpanelli.github.io/PASSWORD/
 
